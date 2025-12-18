@@ -5,11 +5,11 @@ Shayari Corner ek simple aur responsive shayari website hai jahan pyaar, dard, d
 - Category wise shayari (Love, Sad, Motivational, Friendship, Life, Funny, Patriotic)
 - Fully responsive (Mobile & Desktop friendly)
 - Clean & aesthetic UI
-🛠️ Tech Stack:
+# Tech Stack:
 -HTML
 -CSS
 -JavaScript
-🌐 Live Demo
+# Live Demo
 - https://diyu-patel.github.io/Shayari-Corner/
-📂 Project Purpose
+#Project Purpose
 -Ye project web development practice aur responsive design sikhne ke liye banaya gaya hai.
