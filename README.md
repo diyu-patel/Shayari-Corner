@@ -1,4 +1,4 @@
-#Shayari Corner
+-Shayari Corner:
 Shayari Corner ek simple aur responsive shayari website hai jahan pyaar, dard, dosti, zindagi aur motivation se judi khubsurat shayari milti hai.
 - Features
 - Shayari search option
