@@ -9,7 +9,8 @@ Shayari Corner ek simple aur responsive shayari website hai jahan pyaar, dard, d
 -HTML
 -CSS
 -JavaScript
-# Live Demo
-- https://diyu-patel.github.io/Shayari-Corner/
 #Project Purpose
 -Ye project web development practice aur responsive design sikhne ke liye banaya gaya hai.
+# Live Demo
+- https://diyu-patel.github.io/Shayari-Corner/
+
